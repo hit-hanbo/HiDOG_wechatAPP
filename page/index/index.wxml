@@ -1,0 +1,23 @@
+<view class="c-minheight wx-view_mXoVYZ" data-c_e_id="wx_view_d8c1d132">
+    <view class="c-minheight wx-view_ASJVAB" data-c_e_id="wx_view_10d329d3">
+        <view class="c-minheight wx-view_yOptqm" data-c_e_id="wx_view_bcd979cc">
+            <image class="wx-image_n4meJ5" data-c_e_id="wx_image_98b7d6ab" mode="scaleToFill" src="http://qty83k.creatby.com/materials/80209/origin/80acd84af55bee9da5d72f2da012ee7f_origin.png" style="background-size:   100% 100%; background-position:   0% 0%; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/80209/origin/80acd84af55bee9da5d72f2da012ee7f_origin.png); "/>
+        </view>
+        <view class="c-minheight wx-view_MWR4Z4" data-c_e_id="wx_view_fe9bce36">
+            <image class="wx-image_rWOcsd" data-c_e_id="wx_image_1b04510c" mode="scaleToFill" src="http://qty83k.creatby.com/materials/80209/origin/2bf2291411aae69ef6fb68d60aaf7c9b_origin.jpg" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/80209/origin/2bf2291411aae69ef6fb68d60aaf7c9b_origin.jpg); "/>
+        </view>
+        <view class="c-minheight wx-view_Uyk2Aj" data-c_e_id="wx_view_69c196cb"/>
+        <view class="c-minheight wx-view_yOptqm" data-c_e_id="wx_viewf08e54a1">
+            <image class="wx-image_n4meJ5" data-c_e_id="wx_image9bef1809" mode="scaleToFill" src="http://qty83k.creatby.com/materials/80209/origin/1aa6c5f89c1f0b95e4f153f270ff4dba_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/80209/origin/1aa6c5f89c1f0b95e4f153f270ff4dba_origin.png); "/>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_l7w3gs" data-c_e_id="wx_view_b19095b0">
+        <map class="wx-map_ePk8lT" data-c_e_id="wx_map_e52e029b" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" scale="16"/>
+    </view>
+    <view class="c-minheight wx-view_97CF8n" data-c_e_id="wx_view_0ee5002c">
+        <text>
+          <br/>
+          @2018 HIT
+        </text>
+    </view>
+</view>
